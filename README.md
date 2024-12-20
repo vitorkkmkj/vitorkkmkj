@@ -1,5 +1,3 @@
-<h1>
-    <img src="https://br.pinterest.com/pin/24699497974647786/">
-</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7FF&height=120&section=header"/>
 
 <h3>construction...</h3>
