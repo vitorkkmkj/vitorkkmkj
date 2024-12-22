@@ -13,7 +13,7 @@
 
 ##
 
-<p>Most used tecnologies:</p>
+<h3>Most used tecnologies:</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python" />
 </div>
