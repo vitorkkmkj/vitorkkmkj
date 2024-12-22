@@ -5,6 +5,3 @@
 
 <h1>I'm João Vitor</h1>
 <h3>Welcome!</h3>
-##
-
-
