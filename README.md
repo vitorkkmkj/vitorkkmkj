@@ -7,6 +7,6 @@
 <h3>My name is João Vitor. Welcome to my GitHub profile.</h3>
 
 
-- 🔰 I live in Goiânia, Brazil.
+- 📍 I live in Goiânia, Brazil.
 - 💁🏽‍♂️ I am 15 years old.
 - 👩‍💻 Back-End/Front-End Developer
