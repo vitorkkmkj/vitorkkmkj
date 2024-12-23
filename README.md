@@ -15,5 +15,5 @@
 
 <h3>Most used technologies:</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,sql" />
 </div>
